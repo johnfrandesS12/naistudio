@@ -1,0 +1,2 @@
+# naistudio
+repository 1
